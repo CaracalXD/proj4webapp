@@ -1,2 +1,2 @@
-# proj4webapp
-Beginning of automated tests for a web proj. Web proj is now discontinued.
+# SOWproj4
+Web component no longer required, preserving Protractor work as example.
