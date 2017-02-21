@@ -17,8 +17,6 @@ describe('Dash Page', function() {
     
     // do this before each test
     beforeEach(function() {
-      //browser.get('http://172.16.130.60/#/dashboard');
-      //browser.waitForAngular();
       dash = new DashPage();
     });
 

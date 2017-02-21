@@ -2,7 +2,7 @@
 
 /* dash.pageObject.js */
 var DashPage = function() {
-  browser.get('http://172.16.130.60/#/dashboard');
+  browser.get('removed');
 };
 
 DashPage.prototype = Object.create({}, {
